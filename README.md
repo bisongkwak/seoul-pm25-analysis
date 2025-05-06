@@ -38,5 +38,3 @@ Collected from monthly Excel files containing:
 - bigdata_bisong2.ipynb : Original Korean version of the Jupyter notebook
 - bigdata_bisong2.html : HTML-exported notebook for browser viewing
 - bigdata_bisong2.py : Python script version of the notebook
-- bisonghash.py : Auxiliary Python script (used for hashing or utility functions)
-
