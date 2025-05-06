@@ -34,12 +34,9 @@ Collected from monthly Excel files containing:
 
 # Files Included
 
-- `bigdata_bisong2.ipynb`: Main Jupyter notebook (translated to English)
-- `bigdata_bisong2.html`: HTML-exported notebook for easy viewing
-- `bigdata_bisong2.py`: Python version of the notebook
-- `2023_01.xlsx ~ 2023_12.xlsx`: Monthly PM2.5 datasets (not included here for privacy, use sample if needed)
-- `PM25_visualization.png`: Resulting plot image (optional)
+- bigdata_bisong2_english.ipynb : Main Jupyter notebook (translated into English)
+- bigdata_bisong2.ipynb : Original Korean version of the Jupyter notebook
+- bigdata_bisong2.html : HTML-exported notebook for browser viewing
+- bigdata_bisong2.py : Python script version of the notebook
+- bisonghash.py : Auxiliary Python script (used for hashing or utility functions)
 
-# Author
-
-- Bisong Kwak
